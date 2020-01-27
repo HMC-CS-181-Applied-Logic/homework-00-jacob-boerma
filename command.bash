@@ -1,0 +1,1 @@
+sudo docker run -v "$(pwd):/home/student/cs181u" -it harveymudd/cs181u /bin/zsh
